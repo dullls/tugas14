@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+    <link rel="stylesheet" href="
+    https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="Grafik/chart.js/Chart.js"></script>
+    <link rel="stylesheet" type = "text/css" href="tugass.css">
+    <title> RSUD Gunung Jati </title> 
+    </head>
+  
+
+<body> 
+
+  <div class="topnav" id="myTopnav">
+    <a href="#">Home</a>
+    <div class="dropdown">
+      <button class="dropbtn">Tentang Kami <i class="fa fa-caret-down"></i></button>
+      <div class="dropdown-content">
+      <a href="tentang.html">Profil Rumah Sakit</a>
+      <a href="prestasi.html">Prestasi</a>
+      <a href="positif.html">Data Pasien Positif Covid-19</a>
+      <a href="negatif.html">Data Pasien Negatif Covid-19</a>
+
+      </div> 
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Daftar Dokter <i class="fa fa-caret-down"></i></button>
+      <div class="dropdown-content">
+       <a href="dokter.html">Daftar Dokter</a>
+       <a href="jadwal.dokter.html">Daftar Jadwal Dokter</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Fasilitas <i class="fa fa-caret-down"></i></button>
+      <div class="dropdown-content">
+        <a href="lobby.utama.html">Lobi Utama</a>
+        <a href="masjid.html">Masjid</a>
+        <a href="https://rsdgunungjati.cirebonkota.go.id/tempat-parkir/">Tempat Parkir</a>
+        <a href="https://rsdgunungjati.cirebonkota.go.id/kantin/">Kantin</a>
+        <a href="#"> Ruang Laktasi</a >
+
+
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Pelayanan Dik Lat Lit <i class="fa fa-caret-down"></i></button>
+      <div class="dropdown-content">
+        <a href="#"> Pendidikan</a>
+        <a href="#"> Penelitian</a>
+        <a href="#"> Pelatihan</a>
+
+
+      </div>
+    </div>
+
+
+<div class="dropdown">
+      <button class="dropbtn">Layanan <i class="fa fa-caret-down"></i></button>
+      <div class="dropdown-content">
+        <a href="#"> Rawat Jalan</a>
+        <a href="#"> Rawat Inap</a>
+        <a href="#"> Penunjang Medis</a>
+        <a href="#"> IGD</a>
+
+      </div>
+    </div>
+
+    
+    <a href="javascript:void(0)" style="font-size: 15px; " class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+
+  
+  <div class="container">
+    <div class="header">
+    <div class="slideshow-container">
+        
+        <div class="mySlides fade">
+          <img src="RSUD_GunungJati.JPG" style="width: 100%">
+        </div>
+
+        <div class="mySlides fade">
+          <img src="medical_check_up.JPG" style="width: 95%">
+        </div>
+
+        <div class="mySlides fade">
+          <img src="Logo_RSUD-Gunung-Jati-Cirebon.JPG" style="width: 98%">
+        </div>
+
+        <div class="mySlides fade">
+          <img src="Ruang_Informasi_RSUD.JPG" style="width: 100%">
+        </div>
+
+        <div class="mySlides fade">
+          <img src="Lingkungan_RSUD.JPG" style="width: 100%">
+        </div>
+
+      </div>
+      <div style="text-align: center;">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+      </div></div>
+
+      <H1>
+       <p>"Data Positif Covid-19"</p>
+     </H1>
+
+      <center>
+        <img src="positif_covid.jpg">
+        <img src="2.positif.png">
+      </center>
+  
+      <p>Virus ini ditularkan melalui kontak langsung dengan percikan dahak dari orang yang terinfeksi (melalui batuk dan bersin), dan jika menyentuh permukaan yang terkontaminasi virus. Virus ini dapat bertahan selama beberapa jam di permukaan, tetapi disinfektan sederhana dapat membunuhnya.
+
+    <div>
+      Beberapa cara yang bisa dilakukan untuk mencegah penularan virus ini adalah:
+<div>
+- Menjaga kesehatan dan kebugaran agar stamina tubuh tetap prima dan sistem imunitas / kekebalan tubuh meningkat.
+Mencuci tangan dengan benar secara teratur menggunakan air dan sabun atau hand-rub berbasis alkohol. </div>
+<div>
+- Mencuci tangan sampai bersih selain dapat membunuh virus yang mungkin ada di tangan kita, tindakan ini juga merupakan salah satu tindakan yang mudah dan murah. Sekitar 98% penyebaran penyakit bersumber dari tangan. Karena itu, menjaga kebersihan tangan adalah hal yang sangat penting. </div>
+<div>
+- Jaga jarak setidaknya 1 meter dengan orang lain. Jika anda terlalu dekat, anda dapat menghirup droplet dari orang yang mungkin menderita COVID-19. </div>
+<div>
+- Ketika batuk dan bersin, tutup hidung dan mulut Anda dengan tisu atau lengan atas bagian dalam (bukan dengan telapak tangan). </div>
+<div>
+- Hindari menyentuh mata, hidung dan mulut (segitiga wajah). Tangan menyentuh banyak hal yang dapat terkontaminasi virus. Jika kita menyentuh mata, hidung dan mulut dengan tangan yang terkontaminasi, maka virus dapat dengan mudah masuk ke tubuh kita. </div>
+Gunakan masker dengan benar hingga menutupi mulut dan hidung ketika Anda sakit atau saat sedang keluar rumah.
+Buang tisu dan masker yang sudah digunakan ke tempat sampah dengan benar, lalu cucilah tangan Anda.
+Tetap dirumah,  hindari kontak dengan orang lain dan bepergian ke tempat umum.</p>
+
+  <footer> @RSUD Gunung Jati Cirebon</footer>
+
+
+
+
+<div class="panel">
+<a href="#x" class="overlay" id="login_form"></a>
+  <div class="popup"><br>
+    <p>Silahkan Masukan Username & Password Anda!</p>
+
+    <div class="form-group col-md-12">
+      <label>Username</label>
+      <input type="text" name="username" class="form-control" placeholder="Masukan Username  . .">
+    </div>
+
+    <div class="form-group col-md-12">
+      <label>password</label>
+      <input type="text" name="password" class="form-control" placeholder="***** ">
+    </div>
+
+    <input type="submit" class="form-control btn  btn-primary" value="Masuk">
+    <a class="close" href="#close"></a>
+
+  </div>
+</div>
+
+
+
+
+</body> 
+
+</html>
+
+<script>
+  function myFunction(){
+    var x = document.getElementById("myTopnav");
+  
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    }else{
+      x.className = "topnav";
+    }
+
+  }
+</script>
+
+<script>
+var slideIndex=0;
+showSlides();
+
+function showSlides(){
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for(i = 0; i<slides.length; i++){
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if(slideIndex > slides.length){slideIndex = 1}
+    for(i =0; i < dots.length; i++){
+    dots[i].className = dots[i].className.replace(" active","");
+    }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 4000);
+} 
+</script>
+
+<script>
+var ctx = document.getElementById("grafik_batang");
+var grafik_batang = new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: ["2017","2018", "2019", "2020", "2021"],
+    datasets: [{
+      label: "Jumlah Mahasiswa",
+      backgroundColor: "green",
+      hoverBackgroundColor: "lightgreen",
+      borderColor: "#4e73df",
+      data: [850, 960, 1200, 940, 1100],
+    }],
+  },
+  options: {
+    maintainAspectRatio: false,
+    layout: {
+      padding: {
+        left: 10,
+        right: 25,
+        top: 25,
+        bottom: 0
+      }
+    },
+    scales: {
+      xAxes: [{
+        time: {
+          unit: 'years'
+        },
+        gridLines: {
+          display: false,
+          drawBorder: false
+        },
+        ticks: {
+          maxTicksLimit: 10
+        },
+        maxBarThickness: 70,
+      }],
+      yAxes: [{
+        ticks: {
+          min: 0,
+          max: 2000,
+          maxTicksLimit: 10,
+          padding: 10,
+         
+        },
+        gridLines: {
+          color: "rgb(234, 236, 244)",
+          zeroLineColor: "rgb(234, 236, 244)",
+          drawBorder: true,
+          borderDash: [6],
+          zeroLineBorderDash: [6]
+        }
+      }],
+    },
+    legend: {
+      display: true
+    },
+    tooltips: {
+      titleMarginBottom: 10,
+      titleFontColor: '#6e707e',
+      titleFontSize: 14,
+      backgroundColor: "rgb(255,255,255)",
+      bodyFontColor: "#858796",
+      borderColor: '#dddfeb',
+      borderWidth: 5,
+      xPadding: 15,
+      yPadding: 15,
+      displayColors: true,
+      caretPadding: 10,
+      
+    },
+  }
+});
+</script>
+
+<script>
+  var ctx = document.getElementById("grafik_garis");
+var grafik_garis = new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: ["2018", "2019", "2020", "2021", "2022"],
+    datasets: [{
+      label: "Jumlah Lulusan",
+      lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.5)",
+      borderColor: "rgba(78, 115, 223, 1)",
+      pointRadius: 3,
+      pointBackgroundColor: "rgba(78, 115, 223, 1)",
+      pointBorderColor: "rgba(78, 115, 223, 1)",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
+      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      data: [120, 180, 210, 150, 290],
+    }],
+  },
+  options: {
+    maintainAspectRatio: false,
+    layout: {
+      padding: {
+        left: 10,
+        right: 25,
+        top: 25,
+        bottom: 0
+      }
+    },
+    scales: {
+      xAxes: [{
+        time: {
+          unit: 'years'
+        },
+        gridLines: {
+          display: true,
+          drawBorder: true
+        },
+        ticks: {
+          maxTicksLimit: 7
+        }
+      }],
+      yAxes: [{
+        ticks: {
+          maxTicksLimit: 5,
+          padding: 10,
+                  },
+        gridLines: {
+          color: "rgb(234, 236, 244)",
+          zeroLineColor: "rgb(234, 236, 244)",
+          drawBorder: false,
+          borderDash: [2],
+          zeroLineBorderDash: [2]
+        }
+      }],
+    },
+    legend: {
+      display: false
+    },
+    tooltips: {
+      backgroundColor: "rgb(255,255,255)",
+      bodyFontColor: "#858796",
+      titleMarginBottom: 10,
+      titleFontColor: '#6e707e',
+      titleFontSize: 14,
+      borderColor: '#dddfeb',
+      borderWidth: 1,
+      xPadding: 15,
+      yPadding: 15,
+      displayColors: false,
+      intersect: false,
+      mode: 'index',
+      caretPadding: 10,
+      
+    }
+  }
+});
+
+
+</script>
+
+
+<script>var ctx = document.getElementById("grafik_diagram");
+var grafik_diagram = new Chart(ctx, {
+  type: 'doughnut',
+  data: {
+    labels: ["Sistem Informasi", "Teknologi Informasi", "Desain Komunikasi dan Visual"],
+    datasets: [{
+      data: [150, 120, 115],
+      backgroundColor: ['#4e73df', '#1cc88a', '#36b9cc'],
+      hoverBackgroundColor: ['#2e59d9', '#17a673', '#2c9faf'],
+      hoverBorderColor: "rgba(234, 236, 244, 1)",
+    }],
+  },
+  options: {
+    maintainAspectRatio: false,
+    tooltips: {
+      backgroundColor: "rgb(255,255,255)",
+      bodyFontColor: "#858796",
+      borderColor: '#dddfeb',
+      borderWidth: 1,
+      xPadding: 15,
+      yPadding: 15,
+      displayColors: false,
+      caretPadding: 10,
+    },
+    legend: {
+      display: true
+    },
+    cutoutPercentage: 80,
+  },
+});
+</script>
+
+<script src="Grafik/chart.js/Chart.min.js"></script>
+
